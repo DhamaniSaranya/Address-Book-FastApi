@@ -5,7 +5,7 @@ The goal is to demonstrate your existing Python3 skills and how you can create a
 ---
 
 
-# Features
+# Characteristics
 An address book application where API users can create, update and delete addresses.
 
 The user can perform the following operations (CURD) in the below:
