@@ -1,4 +1,27 @@
 # fastapi- Address Book
+# Goal
+The goal is to demonstrate your existing Python3 skills and how you can create a minimal API using FastAPI
+
+---
+
+
+# Features
+
+user can
+- retrieve all the data saved  in database
+- retrieve nearest address for specific address(which is present in database) by providing ID from data saved  in database .
+    (retrieve the addresses that are within a given distance and location coordinates.)
+- retrieve nearest address for specific address(which is not present in database) by providing address deatils from data saved in    database. (retrieve the addresses that are within a given distance and location coordinates.)
+- retrieve data on basis ID number provided to data.
+- retrieve data by locate content by searching for specific words or phrases.
+- create data when address is entered and will get the coordinates for specific address ,added to database.
+- update existed data by ID number provided.
+- delete existed data by ID number provided.
+- delete existed all the data.
+
+---
+
+# Installation
 
 1. Clone the repo
 
@@ -11,7 +34,8 @@
 3. run the server
 
    ```bash
-   uvicorn app.main:app --reload (If you get error in terminal then try another command below)
+   uvicorn app.main:app --reload 
+   (If you get error in terminal then try another command below)
    ```
    ```bash
    py -m uvicorn app.main:app --reload
@@ -20,18 +44,12 @@
 4. click the link below
    # http://localhost:8000/docs
 
+# Authentication
 
+I have used Fake Data for Authentication and Authorization.
+I have used fastapi.security OAuth2PasswordBearer, OAuth2PasswordRequestForm
 
-Contribution:
--------------
-I have referred from the following websites:
-
-^^^^^^^^^^^
-https://fastapi.tiangolo.com/
-~~~~~~~~~~~
-
-^^^^^^^^^^^
-https://developer.mapquest.com/documentation/geocoding-api
-~~~~~~~~~~~
-
+# For Authorizing User in Swagger UI
+User_name -- dhamani
+Password -- dhamanis
 
