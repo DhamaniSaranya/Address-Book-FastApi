@@ -1,0 +1,93 @@
+2022-06-27 10:57:14,815 - INFO - Started server process [748]
+2022-06-27 10:57:14,816 - INFO - Waiting for application startup.
+2022-06-27 10:57:14,817 - INFO - Application startup complete.2022-06-27 10:59:31,604 - INFO - Started server process [15148]
+2022-06-27 10:59:31,605 - INFO - Waiting for application startup.
+2022-06-27 10:59:31,606 - INFO - Application startup complete.
+2022-06-27 10:59:33,540 - INFO - Started server process [4972]
+2022-06-27 10:59:33,541 - INFO - Waiting for application startup.
+2022-06-27 10:59:33,542 - INFO - Application startup complete.
+2022-06-27 11:03:04,236 - INFO - Started server process [17580]
+2022-06-27 11:03:04,237 - INFO - Waiting for application startup.
+2022-06-27 11:03:04,238 - INFO - Application startup complete.
+2022-06-27 11:03:08,948 - INFO - Started server process [5048]
+2022-06-27 11:03:08,950 - INFO - Waiting for application startup.
+2022-06-27 11:03:08,952 - INFO - Application startup complete.
+2022-06-27 11:03:11,221 - INFO - Started server process [13856]
+2022-06-27 11:03:11,223 - INFO - Waiting for application startup.
+2022-06-27 11:03:11,224 - INFO - Application startup complete.
+2022-06-27 11:03:51,336 - INFO - Started server process [9392]
+2022-06-27 11:03:51,336 - INFO - Waiting for application startup.
+2022-06-27 11:03:51,337 - INFO - Application startup complete.
+2022-06-27 11:07:51,666 - INFO - Started server process [11632]
+2022-06-27 11:07:51,667 - INFO - Waiting for application startup.
+2022-06-27 11:07:51,668 - INFO - Application startup complete.
+2022-06-27 11:07:56,014 - INFO - Started server process [15364]
+2022-06-27 11:07:56,015 - INFO - Waiting for application startup.
+2022-06-27 11:07:56,015 - INFO - Application startup complete.
+2022-06-27 11:08:00,819 - INFO - Started server process [8712]
+2022-06-27 11:08:00,820 - INFO - Waiting for application startup.
+2022-06-27 11:08:00,821 - INFO - Application startup complete.
+2022-06-27 11:08:06,949 - INFO - Started server process [11424]
+2022-06-27 11:08:06,950 - INFO - Waiting for application startup.
+2022-06-27 11:08:06,953 - INFO - Application startup complete.
+2022-06-27 11:08:11,459 - INFO - Started server process [12256]
+2022-06-27 11:08:11,460 - INFO - Waiting for application startup.
+2022-06-27 11:08:11,461 - INFO - Application startup complete.
+2022-06-27 11:08:18,148 - INFO - Started server process [7480]
+2022-06-27 11:08:18,148 - INFO - Waiting for application startup.
+2022-06-27 11:08:18,149 - INFO - Application startup complete.
+2022-06-27 11:08:25,120 - INFO - Started server process [17792]
+2022-06-27 11:08:25,121 - INFO - Waiting for application startup.
+2022-06-27 11:08:25,122 - INFO - Application startup complete.
+2022-06-27 11:09:19,948 - INFO - Started server process [1616]
+2022-06-27 11:09:19,949 - INFO - Waiting for application startup.
+2022-06-27 11:09:19,950 - INFO - Application startup complete.
+2022-06-27 11:09:25,132 - INFO - Started server process [7208]
+2022-06-27 11:09:25,133 - INFO - Waiting for application startup.
+2022-06-27 11:09:25,134 - INFO - Application startup complete.
+2022-06-27 11:09:28,770 - INFO - Started server process [17472]
+2022-06-27 11:09:28,771 - INFO - Waiting for application startup.
+2022-06-27 11:09:28,773 - INFO - Application startup complete.
+2022-06-27 11:11:01,588 - INFO - Started server process [2044]
+2022-06-27 11:11:01,589 - INFO - Waiting for application startup.
+2022-06-27 11:11:01,590 - INFO - Application startup complete.
+2022-06-27 11:27:07,803 - INFO - Started server process [1916]
+2022-06-27 11:27:07,804 - INFO - Waiting for application startup.
+2022-06-27 11:27:07,805 - INFO - Application startup complete.
+2022-06-27 11:28:29,798 - INFO - Shutting down
+2022-06-27 11:28:29,906 - INFO - Waiting for application shutdown.
+2022-06-27 11:28:29,908 - INFO - Application shutdown complete.
+2022-06-27 11:28:29,909 - INFO - Finished server process [1916]
+2022-06-27 11:31:46,460 - INFO - Started server process [14192]
+2022-06-27 11:31:46,460 - INFO - Waiting for application startup.
+2022-06-27 11:31:46,461 - INFO - Application startup complete.
+2022-06-27 11:34:26,935 - INFO - Started server process [6352]
+2022-06-27 11:34:26,936 - INFO - Waiting for application startup.
+2022-06-27 11:34:26,936 - INFO - Application startup complete.
+2022-06-27 11:34:29,616 - INFO - Started server process [17184]
+2022-06-27 11:34:29,617 - INFO - Waiting for application startup.
+2022-06-27 11:34:29,618 - INFO - Application startup complete.
+2022-06-27 11:44:24,583 - INFO - Started server process [12532]
+2022-06-27 11:44:24,584 - INFO - Waiting for application startup.
+2022-06-27 11:44:24,585 - INFO - Application startup complete.
+2022-06-27 11:46:24,685 - INFO - Started server process [7336]
+2022-06-27 11:46:24,686 - INFO - Waiting for application startup.
+2022-06-27 11:46:24,687 - INFO - Application startup complete.
+2022-06-27 11:46:33,281 - INFO - Started server process [11636]
+2022-06-27 11:46:33,283 - INFO - Waiting for application startup.
+2022-06-27 11:46:33,284 - INFO - Application startup complete.
+2022-06-27 11:46:35,975 - INFO - Started server process [4340]
+2022-06-27 11:46:35,976 - INFO - Waiting for application startup.
+2022-06-27 11:46:35,977 - INFO - Application startup complete.
+2022-06-27 11:48:33,124 - INFO - Started server process [10384]
+2022-06-27 11:48:33,125 - INFO - Waiting for application startup.
+2022-06-27 11:48:33,126 - INFO - Application startup complete.
+2022-06-27 11:48:38,536 - INFO - Started server process [7340]
+2022-06-27 11:48:38,538 - INFO - Waiting for application startup.
+2022-06-27 11:48:38,539 - INFO - Application startup complete.
+2022-06-27 11:49:51,655 - INFO - Started server process [5584]
+2022-06-27 11:49:51,656 - INFO - Waiting for application startup.
+2022-06-27 11:49:51,657 - INFO - Application startup complete.
+2022-06-27 11:49:53,372 - INFO - Started server process [6772]
+2022-06-27 11:49:53,373 - INFO - Waiting for application startup.
+2022-06-27 11:49:53,373 - INFO - Application startup complete.

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+geopy
+requests
+sqlalchemy
+python-multipart
+logging
